@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+.negative {
+  color: white;
+}
+.monospace {
+  font-family: "Operator Mono", "Operator Mono SSm", monospace;
+}
+.center-text {
+  text-align: center;
+  padding: 0 2rem;
+}
+.center-image img {
+  margin: 0 auto;
+  padding: 2rem;
+}
+.center-element {
+  text-align: center;
+  width: 100%;
+}
+.center-button a.button {
+  margin: 0 auto;
+  padding: 2rem;
+}
+.header-bg {
+  background: #ddd url('media/bg-03.png');
+  width: 100%;
+  margin-bottom: 3rem;
+}
+.header-bg-2 {
+  background: #ddd url('media/bg-02.png');
+  width: 100%;
+  margin-bottom: 3rem;
+}
+.section-padding {
+  padding: 5.6rem 2rem;
+}
+.header-padding {
+  padding: 1.2rem 2rem 0 2rem;
+}
+.section-1-bg {
+  background: #3452CB;
+  width: 100%;
+}
+.section-2-bg {
+  background: #0D1230;
+  width: 100%;
+}
+.menu {
+  padding-top:1.6rem;
+}
+.menu-button {
+  padding-top:1.1rem;
+}
