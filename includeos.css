@@ -39,6 +39,7 @@ html, body {
 }
 .section-padding {
   padding: 5.6rem 2rem;
+  clear: both;
 }
 .header-padding {
   padding: 1.2rem 2rem 0 2rem;
