@@ -27,6 +27,8 @@ html, body {
   background: #ddd url('media/bg-03.png');
   width: 100%;
   margin-bottom: 3rem;
+  display: block;
+  clear: both;
 }
 .header-bg-2 {
   background: #ddd url('media/bg-02.png');
