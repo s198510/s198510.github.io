@@ -1,4 +1,4 @@
-body {
+html, body {
   margin: 0;
 }
 .negative {
@@ -52,4 +52,14 @@ body {
 }
 .menu-button {
   padding-top:1.1rem;
+}
+
+@media (max-width: 768px) {
+  .header-padding {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .hide_mobile {
+    display: none !important;
+  }
 }
